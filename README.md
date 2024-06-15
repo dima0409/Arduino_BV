@@ -3,11 +3,11 @@
 ## Описание
 *Проект на конкурс "[Большие вызовы](https://konkurs.sochisirius.ru/)"
 
-![BV](https://github.com/dima0409/Customer-Review-Analysis-Tool/blob/main/other/siriusii.png)
+![BV](https://github.com/dima0409/Arduino_BV/blob/main/other/BV.png)
 
 Это устростройство предназначенное для улучшение качества сна и упрощения пробуждение.
 
-![scheme](https://github.com/dima0409/Customer-Review-Analysis-Tool/blob/main/other/siriusii.png)
+![scheme](https://github.com/dima0409/Arduino_BV/blob/main/other/image-Photoroom.png)
 
 ## Список компонентов
 | **_Имя_**                             | **_Количество_** | **_Компонент_**      |
