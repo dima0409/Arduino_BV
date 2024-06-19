@@ -5,7 +5,7 @@
 
 ![BV](https://github.com/dima0409/Arduino_BV/blob/main/other/BV.png)
 
-Это устростройство предназначенное для улучшение качества сна и упрощения пробуждение.
+Это устройство предназначено для улучшения качества сна и упрощения пробуждения. 
 
 ![scheme](https://github.com/dima0409/Arduino_BV/blob/main/other/image-Photoroom.png)
 
